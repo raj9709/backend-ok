@@ -1,0 +1,569 @@
+[
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 322",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2933",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "SpiceJet",
+        "flight_id": "SpiceJet SG 162",
+        "base_fare": 5558,
+        "taxes": 1220,
+        "total_fare": 6778
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Akasa Air",
+        "flight_id": "Akasa Air QP 1119",
+        "base_fare": 5642,
+        "taxes": 1238,
+        "total_fare": 6880
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6261",
+        "base_fare": 4908,
+        "taxes": 1077,
+        "total_fare": 5985
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 5119",
+        "base_fare": 4908,
+        "taxes": 1077,
+        "total_fare": 5985
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 2076",
+        "base_fare": 4908,
+        "taxes": 1077,
+        "total_fare": 5985
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6454",
+        "base_fare": 4908,
+        "taxes": 1077,
+        "total_fare": 5985
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 2013",
+        "base_fare": 4908,
+        "taxes": 1077,
+        "total_fare": 5985
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 353",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 449",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 675",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6107",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6328",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6047",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6676",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 324",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6022",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6318",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 864",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 327",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6706",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6114",
+        "base_fare": 5268,
+        "taxes": 1157,
+        "total_fare": 6425
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 1745",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2963",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2927",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2995",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2425",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2945",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2951",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2441",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 441",
+        "base_fare": 5397,
+        "taxes": 1185,
+        "total_fare": 6582
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6218",
+        "base_fare": 5398,
+        "taxes": 1185,
+        "total_fare": 6583
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India Express",
+        "flight_id": "Air India Express IX 1056",
+        "base_fare": 5420,
+        "taxes": 1190,
+        "total_fare": 6610
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2678",
+        "base_fare": 5483,
+        "taxes": 1204,
+        "total_fare": 6687
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2975",
+        "base_fare": 5527,
+        "taxes": 1213,
+        "total_fare": 6740
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 1785",
+        "base_fare": 5531,
+        "taxes": 1214,
+        "total_fare": 6745
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 1777",
+        "base_fare": 5531,
+        "taxes": 1214,
+        "total_fare": 6745
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "SpiceJet",
+        "flight_id": "SpiceJet SG 802",
+        "base_fare": 5558,
+        "taxes": 1220,
+        "total_fare": 6778
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India Express",
+        "flight_id": "Air India Express IX 1235",
+        "base_fare": 5559,
+        "taxes": 1220,
+        "total_fare": 6779
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 6814",
+        "base_fare": 5570,
+        "taxes": 1223,
+        "total_fare": 6793
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 320",
+        "base_fare": 5570,
+        "taxes": 1223,
+        "total_fare": 6793
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 329",
+        "base_fare": 5570,
+        "taxes": 1223,
+        "total_fare": 6793
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 354",
+        "base_fare": 5570,
+        "taxes": 1223,
+        "total_fare": 6793
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 303",
+        "base_fare": 5570,
+        "taxes": 1223,
+        "total_fare": 6793
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 853",
+        "base_fare": 5570,
+        "taxes": 1223,
+        "total_fare": 6793
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "IndiGo",
+        "flight_id": "IndiGo 6E 395",
+        "base_fare": 5570,
+        "taxes": 1223,
+        "total_fare": 6793
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2439",
+        "base_fare": 5617,
+        "taxes": 1233,
+        "total_fare": 6850
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Akasa Air",
+        "flight_id": "Akasa Air QP 1833",
+        "base_fare": 5642,
+        "taxes": 1238,
+        "total_fare": 6880
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Akasa Air",
+        "flight_id": "Akasa Air QP 1110",
+        "base_fare": 5642,
+        "taxes": 1238,
+        "total_fare": 6880
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Akasa Air",
+        "flight_id": "Akasa Air QP 1128",
+        "base_fare": 5642,
+        "taxes": 1238,
+        "total_fare": 6880
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Akasa Air",
+        "flight_id": "Akasa Air QP 1820",
+        "base_fare": 5642,
+        "taxes": 1238,
+        "total_fare": 6880
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2981",
+        "base_fare": 5699,
+        "taxes": 1251,
+        "total_fare": 6950
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2999",
+        "base_fare": 5699,
+        "taxes": 1251,
+        "total_fare": 6950
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2957",
+        "base_fare": 5793,
+        "taxes": 1272,
+        "total_fare": 7065
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2943",
+        "base_fare": 5841,
+        "taxes": 1282,
+        "total_fare": 7123
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2985",
+        "base_fare": 5841,
+        "taxes": 1282,
+        "total_fare": 7123
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2433",
+        "base_fare": 5841,
+        "taxes": 1282,
+        "total_fare": 7123
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Akasa Air",
+        "flight_id": "Akasa Air QP 1826",
+        "base_fare": 5905,
+        "taxes": 1296,
+        "total_fare": 7201
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2429",
+        "base_fare": 5935,
+        "taxes": 1303,
+        "total_fare": 7238
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2805",
+        "base_fare": 5935,
+        "taxes": 1303,
+        "total_fare": 7238
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2977",
+        "base_fare": 5979,
+        "taxes": 1312,
+        "total_fare": 7291
+    },
+    {
+        "route": "DEL-BOM",
+        "date": "2026-10-15",
+        "airline": "Air India",
+        "flight_id": "Air India AI 2955",
+        "base_fare": 6073,
+        "taxes": 1333,
+        "total_fare": 7406
+    }
+]
